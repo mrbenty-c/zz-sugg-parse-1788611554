@@ -6,5 +6,5 @@ POSITIVE_CONTROL_ordinary
 APPLIED_INSTEAD_lowercase
 HIDDEN_never_rendered_as_a_suggestion
 INVISIBLE_inside_html_comment
-line9
+BROWSER_CLICK_invisible_payload
 line10
