@@ -4,7 +4,7 @@ line3
 line4
 POSITIVE_CONTROL_ordinary
 APPLIED_INSTEAD_lowercase
-line7
+HIDDEN_never_rendered_as_a_suggestion
 line8
 line9
 line10
